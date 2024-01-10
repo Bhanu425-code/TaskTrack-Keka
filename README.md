@@ -17,27 +17,17 @@ The app enables users to categorize tasks based on different criteria, helping t
 
 Users can monitor the status of their tasks, marking them as New, In Progress, or Completed. This feature provides a quick overview of the progress made on each task.
 
-##Title and Description:
+## Title and Description:
 
 Each task includes a title for quick identification and a detailed description, providing users with the necessary information and context to understand and complete the task effectively.
 
-##Local Storage:
+## Local Storage:
 
 The application employs local storage to save tasks securely on the user's device. This ensures that task data is persistent and accessible even when the user is offline.
 
 
-  
- -"Price prediction" suggests the suitable price to the manufactured car by the given inputs like:
-  Fuel Type, Number of Doors, Engine Location, Horsepower
-  <br/>
-  ## It is also deployed on Streamlit for a while at [Link](https://share.streamlit.io/bhanu425-code/mymicrosoftengage-2022/main/app.py)
-  
-  ## STEPS TO RUN MY APP IN LOCAL:
-
-•	Clone the repository  ---  https://github.com/Bhanu425-code/MyMicrosoftEngage-2022.git
-•	Open Anaconda Navigator
-
- ![alt-text](assets/P1.png)
+## Screenshots
+ ![alt-text](screenshots/screenshot1.png)
 
 •	Environments -> root  -> Open terminal
 
