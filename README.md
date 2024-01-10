@@ -41,7 +41,7 @@ The application employs local storage to save tasks securely on the user's devic
 <img src="/screenshots/screenshot5.jpeg" height="400px"/>  <img src="/screenshots/screenshot11.jpeg" height="400px"/> 
 <img src="/screenshots/screenshot7.jpeg" height="400px"/>   <img src="/screenshots/screenshot6.jpeg" height="400px"/> 
 <img src="/screenshots/screenshot4.jpeg" height="400px"/>   <img src="/screenshots/screenshot3.jpeg" height="400px"/> 
-<img src="/screenshots/screenshot2.jpeg" height="400px"/>   <img src="/Screenshots/screenshot13.jpeg" height="400px"/> 
+<img src="/screenshots/screenshot2.jpeg" height="400px"/>   <img src="/screenshots/Screenshot13.jpeg" height="400px"/> 
 
 
 
