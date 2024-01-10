@@ -27,7 +27,7 @@ The application employs local storage to save tasks securely on the user's devic
 
 
 ## Screenshots
- ![alt-text](screenshots/screenshot1.png)
+ ![alt-text](screenshots/screenshot1.jpeg)
 
 •	Environments -> root  -> Open terminal
 
