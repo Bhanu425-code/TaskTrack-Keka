@@ -31,7 +31,7 @@ The application employs local storage to save tasks securely on the user's devic
 
 •	Let it build ,this may take some time.
 
-• Enable developer options and usb debugging in your android phone and connet it to your laptop. Or you can use a virtual device.
+• Enable developer options and usb debugging in your android phone and connect it to your laptop. Or you can use a virtual device.
 
 • Click on run & the app gets installed.
 
