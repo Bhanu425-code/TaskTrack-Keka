@@ -26,30 +26,19 @@ Each task includes a title for quick identification and a detailed description, 
 The application employs local storage to save tasks securely on the user's device. This ensures that task data is persistent and accessible even when the user is offline.
 
 
-## Screenshots
- ![alt-text](screenshots/screenshot1.jpeg)
-
-•	Environments -> root  -> Open terminal
-
-  ![alt-text](assets/P2.png)
-
-
-•	Navigate to the path where you have cloned my Repository
-
-•	Make sure you have streamlit installed by executing below command
-streamlit --version
-
-•	To download the library, pip install streamlit 
-
-•	After successful installation, Run the below command 
-streamlit run app.py
-  ![alt-text](assets/P3.png)
+# Screenshots:
+<img src="/screenshots/screenshot1.jpeg" height="400px"/> <img src="/screenshots/night1.png" height="400px"/> 
+<img src="/screenshots/screenshot12.jpeg" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
+<img src="/screenshots/screenshot11.jpeg" height="400px"/> <img src="/screenshots/night3.png" height="400px"/>
+<img src="/screenshots/screenshot7.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/screenshot6.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/screenshot5.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/screenshot4.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/screenshot3.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/screenshot7.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/screenshot2.jpeg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
 
 
-•	WELCOME TO MY APP……….!!!!
 
-  ![alt-text](assets/P4.png)
-## Customer Segmentation
-![alt-text](assets/CS.gif)
-## Price Prediction
-![alt-text](assets/Price_Prediction.gif)
+
+
