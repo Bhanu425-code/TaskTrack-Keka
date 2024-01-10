@@ -25,6 +25,13 @@ Each task includes a title for quick identification and a detailed description, 
 
 The application employs local storage to save tasks securely on the user's device. This ensures that task data is persistent and accessible even when the user is offline.
 
+## Steps to set up:
+
+•	Clone the repository in Android Studio.
+•	Let it build ,this may take some time.
+• Enable developer options and usb debugging in your android phone and connet it to your laptop. Or you can use a virtual device.
+• Click on run & the app gets installed.
+
 
 # Screenshots:
 <img src="/screenshots/screenshot1.jpeg" height="400px"/>   <img src="/screenshots/screenshot12.jpeg" height="400px"/> 
